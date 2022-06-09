@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f23aa30d
+license: CC-BY-NC-SA-4.0
+name: livitownnames
 type: townname
+url: https://github.com/liviline/livitownnames
 version: 6
